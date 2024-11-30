@@ -123,7 +123,12 @@ ${desc}
 
 ## Table of Contents
 
-${toc}
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Contribute](#Contribute)
+* [Testing](#Testing)
+* [Questions](#questions)
+* [License](#license)
 
 ## Installation
 
@@ -133,7 +138,7 @@ ${install}
 
 ${usage}
 
-## How to Contribute
+## Contribute
 
 ${contribute}
 

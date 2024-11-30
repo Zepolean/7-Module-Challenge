@@ -19,10 +19,6 @@ const promptUser = () => {
             message: 'Enter the description:'
         }, {
             type: 'input',
-            name: 'toc',
-            message: 'Enter the Table of Contents:'
-        }, {
-            type: 'input',
             name: 'install',
             message: 'Enter the Installation:'
         }, {

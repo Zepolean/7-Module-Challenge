@@ -1,37 +1,42 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# Test
+# This is the title
 
 ## Description
 
-Des
+This is the description
 
 ## Table of Contents
 
-Toc
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Contribute](#Contribute)
+* [Testing](#Testing)
+* [Questions](#questions)
+* [License](#license)
 
 ## Installation
 
-install
+This is the installation
 
 ## Usage
 
-usage
+This is the usage
 
 ## How to Contribute
 
-test
+This is the contributing
 
 ## Tests
 
-test
+This is the testing
 
 ## Questions
 
 ### Contact me!
-GitHub: https://github.com/blah 
+GitHub: https://github.com/zepolean 
 
-Email: blahg
+Email: someone@gmail.com
 
 ## License
 
