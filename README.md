@@ -19,10 +19,6 @@ npm install
 
 Run `index.js` in node, then enter your answer for the question.
 
-![Example of my project in action](./media/Screenshot%202024-12-01%20173936.png)
-![Another example of my project in action](./media/Screenshot%202024-12-01%20174037.png)
-
-
 ## Contributing
 
 You are free to fork this repo and edit it yourself!
