@@ -21,6 +21,7 @@ Run `index.js` in node, then enter your answer for the question.
 
 ![Example of my code](./media/Screenshot%202024-12-01%20173936.png)
 ![Another example of my code](./media/Screenshot%202024-12-01%20174037.png)
+![Video of demonstrating the code](https://drive.google.com/file/d/1DPY-1eTD6uxzhqeO09Z78r8dTV8zvrdU/view?usp=sharing)
 
 
 ## Contributing
