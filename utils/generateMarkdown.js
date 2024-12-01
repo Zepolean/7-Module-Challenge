@@ -112,7 +112,7 @@ This repository is licensed by: ${license}`
 };
 
 // TODO: Create a function to generate markdown for README
-function generateMarkdown({ title, desc, toc, install, usage, license, contribute, testing, ghUser, email }) {
+function generateMarkdown({ title, desc, install, usage, license, contribute, testing, ghUser, email }) {
   return `
 ${renderLicenseBadge(license)}
 # ${title}
@@ -123,10 +123,10 @@ ${desc}
 
 ## Table of Contents
 
-* [Installation](#Installation)
-* [Usage](#Usage)
-* [Contribute](#Contribute)
-* [Testing](#Testing)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribute](#contribute)
+* [Testing](#testing)
 * [Questions](#questions)
 * [License](#license)
 

@@ -20,16 +20,16 @@ const promptUser = () => {
         }, {
             type: 'input',
             name: 'install',
-            message: 'Enter the Installation:'
+            message: 'Describe the steps to Install your project (Installation):'
         }, {
             type: 'input',
             name: 'usage',
-            message: 'What is the Usage?'
+            message: 'Describe how to use your Project (Usage):'
         }, 
         {
             type: 'list',
             name: 'license',
-            message: 'What is the License?',
+            message: 'What license do you want?',
             choices: [
                 'MIT License',
                 'Apache License 2.0',
@@ -50,11 +50,11 @@ const promptUser = () => {
         {
             type: 'input',
             name: 'contribute',
-            message: 'Enter Contributing:'
+            message: 'Enter how someone can contribute to your project (Contribute):'
         }, {
             type: 'input',
             name: 'testing',
-            message: 'Enter Testing:'
+            message: 'How should the user Test your project? (Tests):'
         }, {
             type: 'input',
             name: 'ghUser',

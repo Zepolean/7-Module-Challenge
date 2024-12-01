@@ -1,42 +1,42 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# This title
+# My Title
 
 ## Description
 
-This description
+This is the description to my Project
 
 ## Table of Contents
 
-* [Installation](#Installation)
-* [Usage](#Usage)
-* [Contribute](#Contribute)
-* [Testing](#Testing)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribute](#contribute)
+* [Testing](#testing)
 * [Questions](#questions)
 * [License](#license)
 
 ## Installation
 
-This installation
+To install my project you have to...
 
 ## Usage
 
-This usage
+To use my project you have to...
 
 ## Contribute
 
-This contributing
+You can contribute to my repo by forking this repo and creating a pull request!
 
 ## Tests
 
-This testing
+To test my project you can...
 
 ## Questions
 
 ### Contact me!
 GitHub: https://github.com/zepolean 
 
-Email: someone@gmail.com
+Email: myemail@gmail.com
 
 ## License
 
