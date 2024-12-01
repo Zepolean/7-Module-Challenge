@@ -75,14 +75,14 @@ function writeToFile(fileName, data) {
         if (error){
             return console.error(error)
         } else {
-            console.log("README has been written!")
+            console.log("Generating README.md...")
      }
 })};
 
 // TODO: Create a function to initialize app
 function init () {
     promptUser()
-      .then(answers => { writeToFile('README.md', generateMarkdown(answers))})
+      .then(answers => { writeToFile('customized-README.md', generateMarkdown(answers))})
       .catch((err) => console.error(err));
   };
 
