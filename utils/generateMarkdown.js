@@ -126,7 +126,7 @@ ${desc}
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contribute](#contribute)
-* [Testing](#testing)
+* [Testing](#tests)
 * [Questions](#questions)
 * [License](#license)
 

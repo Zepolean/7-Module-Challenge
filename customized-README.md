@@ -1,35 +1,35 @@
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # Weather App
 
 ## Description
 
-This weather app lets you see the weather based on your location and also see what the week's weather will be
+This is a weather app that can track your area and what the current weather is. It also can give you a forcast of the weather in the week.
 
 ## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contribute](#contribute)
-* [Testing](#tests)
+* [Testing](#testing)
 * [Questions](#questions)
 * [License](#license)
 
 ## Installation
 
-To install, you have to use npm install the project and run the code
+To install this project, you have to use npm install to install dependencies and run the app.
 
 ## Usage
 
-To use the project you simply have to run the code as per the installation and enter your information to get an accurate reading of the weather around your area
+To use this project you will have to follow the installation instructions and input your area information so the app can accurately output the weather information
 
 ## Contribute
 
-To contribute, fork this repo and send a pull request!
+If you want to contribute to this project, fork the repo and send a pull request!
 
 ## Tests
 
-You should test this project by going to test.js and testing if the application works and has accurate data for your area
+To test this project, go to test.js to test out the code.
 
 ## Questions
 
@@ -40,7 +40,7 @@ Email: myemail@gmail.com
 
 ## License
 
-This repository is licensed by: MIT License
+This repository is licensed by: Apache License 2.0
 
-https://opensource.org/licenses/MIT
+https://opensource.org/licenses/Apache-2.0
 
