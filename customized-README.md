@@ -1,35 +1,35 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# My Title
+# Weather App
 
 ## Description
 
-This is the description to my Project
+This weather app lets you see the weather based on your location and also see what the week's weather will be
 
 ## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contribute](#contribute)
-* [Testing](#testing)
+* [Testing](#tests)
 * [Questions](#questions)
 * [License](#license)
 
 ## Installation
 
-To install my project you have to...
+To install, you have to use npm install the project and run the code
 
 ## Usage
 
-To use my project you have to...
+To use the project you simply have to run the code as per the installation and enter your information to get an accurate reading of the weather around your area
 
 ## Contribute
 
-You can contribute to my repo by forking this repo and creating a pull request!
+To contribute, fork this repo and send a pull request!
 
 ## Tests
 
-To test my project you can...
+You should test this project by going to test.js and testing if the application works and has accurate data for your area
 
 ## Questions
 
